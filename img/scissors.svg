@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="612.00000pt" id="svg18453" inkscape:version="0.40cvs" sodipodi:docbase="/home/phillipsjd/Documents/projects/clipart-project/art" sodipodi:docname="scissors-outline.svg" sodipodi:version="0.32" width="792.00000pt" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Scissors</dc:title>
+        <dc:description>Generic scissor outline</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hash</rdf:li>
+            <rdf:li></rdf:li>
+            <rdf:li>education</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org">
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs48974"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:cx="475.26707" inkscape:cy="250.37448" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="739" inkscape:window-width="1012" inkscape:window-x="0" inkscape:window-y="3" inkscape:zoom="0.61399264" pagecolor="#ffffff"/>
+  <path d="M 501.04181,395.45837 C 541.15731,340.15315 549.82429,299.73239 563.41093,303.60069 C 574.03101,306.62432 568.92703,315.71359 596.99323,322.12643 C 623.94151,328.28387 651.47429,306.15976 657.19434,279.46697 C 664.81337,253.30422 652.46402,220.42005 624.83611,212.30212 C 597.49533,202.40712 564.90662,218.49074 555.17859,245.72147 C 541.08287,276.85172 533.85458,317.96585 488.29840,353.25430 L 453.33141,380.33989 L 332.32290,551.17978 C 318.79252,573.26750 310.66876,602.65174 328.21122,630.62487 L 501.04181,395.45837 z M 630.86163,292.34246 C 607.55607,315.59217 566.32803,301.41307 566.39853,270.37740 C 564.74818,241.82387 599.45332,215.81895 625.25061,232.11764 C 646.97155,243.54566 646.81582,276.42639 630.86163,292.34246 z " id="path48999" sodipodi:nodetypes="cccccczcccccccc" style="stroke:#000000;stroke-width:7.5406227;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;marker-start:none;"/>
+  <path d="M 439.22937,396.96624 C 399.23665,341.57169 390.66019,301.13177 377.06518,304.96978 C 366.43849,307.96978 371.52212,317.07013 343.44111,323.42064 C 316.47949,329.51805 288.99607,307.33259 283.33528,280.62703 C 275.77506,254.44766 288.19757,221.59082 315.84337,213.53461 C 343.20631,203.70051 375.75908,219.85664 385.42604,247.10911 C 399.45254,278.27046 406.58903,319.40084 452.06679,354.79049 L 486.97350,381.95429 L 607.60060,553.06333 C 621.08181,575.18121 629.14037,604.58343 611.53561,632.51737 L 439.22937,396.96624 z M 309.63984,293.56121 C 332.89345,316.86278 374.15296,302.77560 374.15136,271.73993 C 375.86577,243.19014 341.21836,217.10794 315.38500,233.34898 C 293.63870,244.72862 293.72102,277.60963 309.63984,293.56121 z " id="path49000" sodipodi:nodetypes="cccccczcccccccc" style="stroke:#000000;stroke-width:7.5406227;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;marker-start:none;"/>
+</svg>
