@@ -9,7 +9,7 @@ A nice desktop paper ornament with Vim commands fast references.
 Using
 -----
 
-- Print the file *vimcheatball3.pdf* (A4 format)
+- Print the file *small.pdf* or *large.pdf* (A4 format)
 - Cut following the marks
 - Fold following the marks
 - Glue it!
