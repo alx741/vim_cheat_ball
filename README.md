@@ -20,6 +20,6 @@ International license.
 
 By: Daniel Campoverde [Alx741]
 
-mailto: alx741@riseup.net
+mailto: alx@sillybytes.net
 
-http: [Silly Bytes](http://www.sillybytes.net)
+http://www.sillybytes.net
