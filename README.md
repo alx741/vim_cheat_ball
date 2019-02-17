@@ -1,6 +1,6 @@
 # VIM Cheat Ball
 
-A nice desktop paper ornament with Vim commands fast references.
+A desktop paper ornament with Vim commands fast references.
 
 ![Vim cheat ball](http://i.imgur.com/tPfSoAS.jpg)
 
@@ -8,9 +8,7 @@ A nice desktop paper ornament with Vim commands fast references.
 ## Using
 
 - Print the file *small.pdf* or *large.pdf* (A4 format)
-- Cut
-- Fold
-- Glue it
+- Assemble
 
 
 ## License
