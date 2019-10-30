@@ -12,5 +12,4 @@ all: ../small.pdf ../large.pdf
 	pdfunite $(LARGEPAGES) $@
 
 clean:
-	rm *.pdf
-	rm ../*.pdf
+	rm -f ./*.pdf
