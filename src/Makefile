@@ -1,7 +1,6 @@
-FILES=small.pdf large_1.pdf large_2.pdf large_3.pdf
-TARGETS=../small.pdf ../large.pdf
+LARGEPAGES=large_1.pdf large_2.pdf large_3.pdf
 
-all: $(TARGETS)
+all: ../small.pdf ../large.pdf
 
 %.pdf:  %.svg
 	inkscape -A $@ $<
@@ -9,9 +8,8 @@ all: $(TARGETS)
 ../small.pdf: small.pdf
 	cp ./small.pdf ../
 
-../large.pdf: large_1.pdf large_2.pdf large_3.pdf
-	pdfunite $? $@
+../large.pdf: $(LARGEPAGES)
+	pdfunite $(LARGEPAGES) $@
 
 clean:
-	rm *.pdf
-	rm ../*.pdf
+	rm -f ./*.pdf
