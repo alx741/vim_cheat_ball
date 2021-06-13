@@ -3,10 +3,7 @@
 ![Vim cheat ball](./thumbnail.jpg)
 
 
-## Usage
-
-- Print the file *small.pdf* or *large.pdf* (A4 format)
-- Assemble
+Use the [`cheat_ball.pdf` file](./cheat_ball.pdf)
 
 
 ## License
