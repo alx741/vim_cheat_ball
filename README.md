@@ -1,11 +1,9 @@
 # VIM Cheat Ball
 
-A desktop paper ornament with Vim commands fast references.
-
-![Vim cheat ball](http://i.imgur.com/tPfSoAS.jpg)
+![Vim cheat ball](./thumbnail.jpg)
 
 
-## Using
+## Usage
 
 - Print the file *small.pdf* or *large.pdf* (A4 format)
 - Assemble
@@ -20,4 +18,4 @@ By: Daniel Campoverde [Alx741]
 
 mailto: alx@sillybytes.net
 
-http://www.sillybytes.net
+https://sillybytes.net
